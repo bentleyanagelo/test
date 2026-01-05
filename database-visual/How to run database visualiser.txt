@@ -1,0 +1,3 @@
+How to run database visualiser
+
+python -m streamlit run app.py
